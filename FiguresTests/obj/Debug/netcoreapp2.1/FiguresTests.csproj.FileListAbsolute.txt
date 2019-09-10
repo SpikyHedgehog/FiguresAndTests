@@ -1,0 +1,17 @@
+C:\Users\idont\Source\Repos\FiguresTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\idont\Source\Repos\FiguresTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\idont\Source\Repos\FiguresTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\idont\Source\Repos\FiguresTests\bin\Debug\netcoreapp2.1\FiguresTests.deps.json
+C:\Users\idont\Source\Repos\FiguresTests\bin\Debug\netcoreapp2.1\FiguresTests.runtimeconfig.json
+C:\Users\idont\Source\Repos\FiguresTests\bin\Debug\netcoreapp2.1\FiguresTests.runtimeconfig.dev.json
+C:\Users\idont\Source\Repos\FiguresTests\bin\Debug\netcoreapp2.1\FiguresTests.dll
+C:\Users\idont\Source\Repos\FiguresTests\bin\Debug\netcoreapp2.1\FiguresTests.pdb
+C:\Users\idont\Source\Repos\FiguresTests\bin\Debug\netcoreapp2.1\Figures.dll
+C:\Users\idont\Source\Repos\FiguresTests\bin\Debug\netcoreapp2.1\Figures.pdb
+C:\Users\idont\Source\Repos\FiguresTests\obj\Debug\netcoreapp2.1\FiguresTests.csprojAssemblyReference.cache
+C:\Users\idont\Source\Repos\FiguresTests\obj\Debug\netcoreapp2.1\FiguresTests.csproj.CoreCompileInputs.cache
+C:\Users\idont\Source\Repos\FiguresTests\obj\Debug\netcoreapp2.1\FiguresTests.AssemblyInfoInputs.cache
+C:\Users\idont\Source\Repos\FiguresTests\obj\Debug\netcoreapp2.1\FiguresTests.AssemblyInfo.cs
+C:\Users\idont\Source\Repos\FiguresTests\obj\Debug\netcoreapp2.1\FiguresTests.csproj.CopyComplete
+C:\Users\idont\Source\Repos\FiguresTests\obj\Debug\netcoreapp2.1\FiguresTests.dll
+C:\Users\idont\Source\Repos\FiguresTests\obj\Debug\netcoreapp2.1\FiguresTests.pdb
